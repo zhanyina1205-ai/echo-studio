@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.sites-local/
+.openai/
+.env*
+.DS_Store
+qa/
+backups/
+*.csv
+*.json.backup

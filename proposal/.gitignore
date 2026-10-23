@@ -1,0 +1,8 @@
+dist/
+qa/
+.DS_Store
+node_modules/
+.sites-local/
+.openai/
+.env*
+backups/
